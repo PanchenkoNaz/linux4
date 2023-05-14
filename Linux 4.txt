@@ -1,1 +1,1 @@
-sudo mkdir /opt/070223_morning/<your_name>
+sudo mkdir /opt/070223_morning/<Nazar>
